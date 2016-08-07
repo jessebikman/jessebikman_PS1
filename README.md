@@ -10,4 +10,8 @@ Here's how it looks in my local environment:
 >[Sun Aug 07 16:22:38]jessebikman@Jesses-MacBook.local: ~
 >$
 
-I'm a big fan of this PS1 because initially, it tells me when I last logged in. Then it gives me a nice timestamp, tells me what user is logged in, and what environment I am running code in - be it my local machine, or a remote computing environment. I hope you find this useful!
+I'm a big fan of this PS1 because initially, it tells me when I last logged in. 
+Then it gives me a nice timestamp that is non-ambiguous across AM/PM, and non-ambiguous between folks that put the month first in a date, and folks that put the day first in a date. 
+It also tells me which user is logged in, and what environment I am running code in - be it my local machine, or a remote computing environment. 
+
+I hope you find this useful!
